@@ -32,16 +32,27 @@ Deployment: Render
  
 src/
 ├── assets/             # Branding and icons
+
 ├── components/
+
 │   ├── Filter/         # Sidebar accordion and logic
+
 │   ├── Footer/         # Naukri-style professional footer
+
 │   ├── JobCard/        # Individual job display component
+
 │   ├── JobList/        # Container for mapping cards
+
 │   ├── Navbar/         # Navigation & Search integration
+
 │   ├── Pagination/     # Page-switch navigation
+
 │   └── data/           # jobs.js (Mock Database with 30 entries)
+
 ├── App.jsx             # Main Logic and state management
+
 ├── App.css             # Main styling & responsive rules
+
 └── main.jsx            # Entry point
 
  Getting Started
