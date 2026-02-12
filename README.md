@@ -94,13 +94,6 @@ This project is deployed as a **Static Site** on Render with the following confi
   *   *Destination:* `/index.html` 
   *   *Action:* `Rewrite`
 
----
-
-## Credits
-This project was developed as part of the **Cygnus Assignment**.
-
----
-
 ##  Author
 **Your Name**  
 [GitHub Profile](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
