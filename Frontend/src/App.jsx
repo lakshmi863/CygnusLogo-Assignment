@@ -6,6 +6,7 @@ import JobList from './components/JobList/JobList';
 import Pagination from './components/Pagination/Pagination';
 import Footer from './components/Footer/Footer';
 import './App.css';
+
 // Create simple internal components for the new sections
 const CompaniesView = () => (
   <div className="extra-view">
